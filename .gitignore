@@ -1,0 +1,10 @@
+# Terraform dot files
+.terraform
+.terraformrc
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.plan
+
+# SSH keys
+.ssh
